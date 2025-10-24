@@ -14,6 +14,6 @@ Hey there!
 📫 How to reach me:
    - 🌐 Website: [saivenkatram.dev](https://yourwebsite.com)
    - 📧 Email: saiv.contact@gmail.com
-   - 💼 LinkedIn: [your-profile](https://linkedin.com/in/sai-venkatram)
+   - 💼 LinkedIn: [sai-venkatram](https://linkedin.com/in/sai-venkatram)
 
 <b>"I am still learning." — Michelangelo (at age 87)</b>
