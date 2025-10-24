@@ -11,6 +11,9 @@ Hey there!
 
 💬 Ask me about Next.js, GoLang, Express and React Native
 
-📫 How to reach me - saiv.contact@gmail.com
+📫 How to reach me:
+   - 🌐 Website: [saivenkatram.dev](https://yourwebsite.com)
+   - 📧 Email: saiv.contact@gmail.com
+   - 💼 LinkedIn: [your-profile](https://linkedin.com/in/sai-venkatram)
 
 <b>"I am still learning." — Michelangelo (at age 87)</b>
