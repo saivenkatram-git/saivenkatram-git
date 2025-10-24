@@ -12,7 +12,7 @@ Hey there!
 💬 Ask me about Next.js, GoLang, Express and React Native
 
 📫 How to reach me:
-   - 🌐 Website: [saivenkatram.dev](https://yourwebsite.com)
+   - 🌐 Website: [saivenkatram.dev](https://saivenkatram.dev)
    - 📧 Email: saiv.contact@gmail.com
    - 💼 LinkedIn: [sai-venkatram](https://linkedin.com/in/sai-venkatram)
 
