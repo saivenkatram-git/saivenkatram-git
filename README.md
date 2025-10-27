@@ -7,8 +7,6 @@ Hey there!
 
 👯 I’m looking to collaborate on GoLang, Typescript and JS Frontend / Backend Projects
 
-👀 I'm interested in LLMs, Decentralization, Scaling and Optimizing Solutions
-
 💬 Ask me about Next.js, GoLang, Express and React Native
 
 📫 How to reach me:
