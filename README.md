@@ -3,7 +3,7 @@ Hey there!
 
 🛠️ Creator of [Zen Commit](https://github.com/saivenkatram-git/zencommit) - A beautiful CLI tool for conventional commits
 
-🌱 I’m currently learning Hono JS, Electron and Zig.
+🌱 I’m currently learning Hono JS, Electron and Svelte.
 
 👯 I’m looking to collaborate on GoLang, Typescript and JS Frontend / Backend Projects
 
